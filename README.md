@@ -4,6 +4,7 @@
 
 X Education is an education company that offers online courses for industry professionals. The company attracts many visitors to its website through various marketing channels, such as websites, search engines, and referrals. Some of these visitors fill out a form with their contact information and become leads for the company. The sales team then tries to convert these leads into customers by calling them, emailing them, etc. However, the company faces a problem: its lead conversion rate is very low. Out of 100 leads, only 30 become customers on average. This means that the sales team is wasting a lot of time and resources on leads that are not interested or ready to buy. A typical lead conversion process can be represented using the following funnel:
 
+![r](https://github.com/Yogesh-dahake08/Lead-Scoring-Case-Study/assets/147065295/7d501a66-747a-410e-968b-ddc4e0858a53)
 
 
 
